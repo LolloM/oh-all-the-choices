@@ -1,0 +1,27 @@
+button {
+  background-color: pink
+}
+
+Body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px
+}
+
+.inputsection {
+  margin: 50px 30px 80px 30px
+  width: 400px
+}
+
+.inputs {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  font-weight: 200;
+  font-size: 40px;
